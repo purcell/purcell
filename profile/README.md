@@ -7,8 +7,9 @@
   languages
 - Was in the top 100 most active GitHub developers worldwide for
   several years
-- Largely built an open source community project from nothing to
-  having thousands of contributors and 0.3B downloads
+- Largely built an [open source community
+  project](https://github.com/melpa/melpa) from nothing to having
+  thousands of contributors and 0.3B downloads
 - Many thousands of followers here and on social media
 
 Beyond Open Source, I'm a joyful product-and-team-first startup
