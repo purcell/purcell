@@ -3,8 +3,9 @@
 - Open Source advocate and notable author since the 1990s, e.g. I
   contributed a module to the Python standard library (`unittest.py`)
   in 2003
-- Contributed to many hundreds (!) of repositories in various
-  languages
+- Contributed to [many hundreds (!) of
+  repositories](https://github.com/purcell?tab=repositories) in
+  various languages
 - Was in the top 100 most active GitHub developers worldwide for
   several years
 - Largely built an [open source community
