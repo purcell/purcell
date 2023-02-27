@@ -1,8 +1,7 @@
 ## Open Source veteran, available for hire!
 
 - Open Source advocate and notable author since the 1990s, e.g. I
-  contributed a module to the Python standard library (`unittest.py`)
-  in 2003
+  wrote `unittest.py` for the Python standard library in 2003
 - Contributed to [many hundreds (!) of
   repositories](https://github.com/purcell?tab=repositories) in
   various languages
@@ -15,11 +14,12 @@
 
 Beyond Open Source, I'm a joyful product-and-team-first startup
 veteran and founder across many industry sectors, as well as an
-experienced and popular people leader, consultant and freelancer.
+experienced and popular people leader, programming language nerd,
+consultant and freelancer.
 
 In recent years I've alternated between hands-on technical direction
 of challenging projects, and growing/nurturing technical orgs of 60-90
 engineers.
 
-I'm available for hire, so feel free to [get in
+I'm **available for hire**, so feel free to [get in
 touch](mailto:steve@sanityinc.com).
