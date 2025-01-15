@@ -1,5 +1,6 @@
 ## Open Source community builder and technical leader, available for hire!
 
+- Building demanding products on Open Source foundations for decades
 - Open Source advocate and notable author since the 1990s, e.g. I
   wrote `unittest.py` for the Python standard library around 2000
 - Contributed to [many hundreds (!) of
