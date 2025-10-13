@@ -8,8 +8,8 @@
   various languages
 - Was in the top 100 most active GitHub developers worldwide for
   several years
-- Largely built an [open source community
-  project](https://github.com/melpa/melpa) from nothing to having
+- Largely built up an [open source community
+  project](https://github.com/melpa/melpa) from an early prototype to having
   thousands of contributors and 0.3B downloads
 - Many thousands of followers here and on social media
 
