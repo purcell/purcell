@@ -11,7 +11,7 @@
 - Largely built up an [open source community
   project](https://github.com/melpa/melpa) from an early prototype to having
   thousands of contributors and 0.3B downloads
-- Many thousands of followers here and on social media
+- Many thousands of followers here and on social media, and many supporters [on Patreon](https://www.patreon.com/sanityinc)
 
 Beyond Open Source, I'm a joyful product-and-team-first startup
 veteran and founder across many industry sectors, as well as an
